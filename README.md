@@ -1,10 +1,10 @@
-📧 #**Email News App**
+📧 **#Email News App**
 
 A Python automation project that brings the world’s latest headlines directly to your inbox.
 
 Whether you're tracking technology trends, market updates, or breaking world news, this lightweight app fetches real-time articles on a topic of your choice and emails them to you daily — no distractions, no ads, just pure news in your inbox.
 
-📰 ##**What It Does:**
+📰 **##What It Does:**
 
 Uses NewsAPI to fetch the latest news based on a topic (like “Tesla”, “AI”, or “Stock Market”).
 
