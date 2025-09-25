@@ -1,10 +1,10 @@
-📧 **#Email News App**
+# 📧 **Email News App**
 
 A Python automation project that brings the world’s latest headlines directly to your inbox.
 
 Whether you're tracking technology trends, market updates, or breaking world news, this lightweight app fetches real-time articles on a topic of your choice and emails them to you daily — no distractions, no ads, just pure news in your inbox.
 
-📰 **##What It Does:**
+## 📰 **What It Does:**
 
 Uses NewsAPI to fetch the latest news based on a topic (like “Tesla”, “AI”, or “Stock Market”).
 
@@ -15,7 +15,7 @@ Sends the news digest via email using Gmail's secure SMTP (SSL) server.
 Designed for automation — perfect for daily or scheduled runs using cron or Task Scheduler.
 
 
-🔧 ##**Project Structure**
+## 🔧 **Project Structure**
 
 
 ├── **main.py**           # Core script: fetches news and triggers the email
@@ -25,7 +25,7 @@ Designed for automation — perfect for daily or scheduled runs using cron or Ta
 ├── **README.md**         # Documentation for the project
 
 
-✅ ##**Features**
+## ✅ **Features**
 
 🌐 Live News Fetching – Real-time data from NewsAPI
 
@@ -40,7 +40,7 @@ Designed for automation — perfect for daily or scheduled runs using cron or Ta
 🧩 Modular Codebase – Separated logic for fetching and sending
 
 
-🔑 ##**Required Setup**
+## 🔑 **Required Setup**
 
 ✅ 1. Gmail App Password
 
@@ -56,7 +56,7 @@ If using Gmail:
 * Generate your free API key
 
 
-🧠 ##**How It Works**
+## 🧠 **How It Works**
 
 main.py
 
